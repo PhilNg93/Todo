@@ -1,0 +1,28 @@
+.heading {
+    display: flex;
+    margin: auto; 
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background-color: lightblue;
+    max-width: 50%;
+    border-radius: 8px;
+}
+#myInput {
+    margin: 8px;
+    padding: 8px;
+    border-radius: 8px;
+    vertical-align: middle;
+}
+button {
+border-radius: 8px;
+height: 30px;
+}
+
+.input {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
